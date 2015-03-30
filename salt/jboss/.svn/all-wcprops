@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/saltstack_code/!svn/ver/57/branches/v1.1/pillar/jboss
+END
+common.sls
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/saltstack_code/!svn/ver/2/branches/v1.1/pillar/jboss/common.sls
+END
+replaceparam.sls
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/saltstack_code/!svn/ver/57/branches/v1.1/pillar/jboss/replaceparam.sls
+END

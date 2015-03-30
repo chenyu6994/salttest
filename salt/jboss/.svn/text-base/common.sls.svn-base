@@ -1,0 +1,17 @@
+jboss_wildfly_sh_path: /opt/jboss/bin/wildfly.sh
+jboss_jbosscli_xml_path: /opt/jboss/bin/jboss-cli.xml
+jboss_standalone_xml_path: /opt/jboss/standalone/configuration/standalone.xml
+jboss_domain_xml_path: /opt/jboss/domain/configuration/domain.xml
+jboss_host_xml_path: /opt/jboss/domain/configuration/host.xml
+jboss_bin_path: /opt/jboss/bin/
+jboss_add_user_password: suning@123
+jboss_add_user_password_secret: c3VuaW5nQDEyMw==
+salt_standalone_wildfly_sh_path: salt://jboss/standalone/src/wildfly.sh
+salt_master_wildfly_sh_path: salt://jboss/domain/master/src/wildfly.sh
+salt_slave_wildfly_sh_path: salt://jboss/domain/slave/src/wildfly.sh
+salt_jbosscli_xml_path: salt://jboss/standalone/src/jboss-cli.xml
+salt_standalone_xml_path: salt://jboss/standalone/src/standalone.xml
+salt_master_domain_xml_path: salt://jboss/domain/master/src/domain.xml
+salt_slave_domain_xml_path: salt://jboss/domain/slave/src/domain.xml
+salt_master_host_xml_path: salt://jboss/domain/master/src/host-master.xml
+salt_slave_host_xml_path: salt://jboss/domain/slave/src/host-slave.xml
